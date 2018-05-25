@@ -6,7 +6,8 @@
 
 ![gl](https://transfer.sh/wqDYL/Glycemic.png)
 ## Good to know :
-Look at the back in nutrition facts of any food, the ones that has less than 15g of Carbohydrate should be well suited for the job.
+Look at the back in nutrition facts of any food.
+The ones that contain less than 15g of Carbohydrate should be well suited for the job.
 ## The Low Glycemic load list :
 
 |  Food | GL  |
