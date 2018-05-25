@@ -116,13 +116,13 @@ As you can see recipes are more guidelines than a specific procedure to follow, 
 
 Source: 
 
-[International table of glycemic index and glycemic load values ( Kaye Foster-Powell, Susanna HA Holt, and Janette C Brand-Miller )](http://care.diabetesjournals.org/content/suppl/2008/09/18/dc08-1239.DC1/TableA1_1.pdf)
+[International table of glycemic index and glycemic load values paper by  Kaye Foster-Powell, Susanna HA Holt, and Janette C Brand-Miller ](http://care.diabetesjournals.org/content/suppl/2008/09/18/dc08-1239.DC1/TableA1_1.pdf)
 
-[David Perlmutter](https://www.amazon.fr/David-Perlmutter/e/B001JSAC00/ref=ntt_dp_epwbk_0)
+[David Perlmutter and Kristin Loberg books](https://www.amazon.fr/David-Perlmutter/e/B001JSAC00/ref=ntt_dp_epwbk_0)
 
-[USDA](https://www.usda.gov/)
+[USDA website for Nutrition facts](https://www.usda.gov/)
 
-[nutritiondata](http://nutritiondata.self.com/)
+[nutritiondata for nutrition facts](http://nutritiondata.self.com/)
 
 [L'intestin, notre deuxième cerveau: Pr Francisca Joly Gomez](https://www.amazon.fr/Lintestin-notre-deuxi%C3%A8me-cerveau-Comprendre/dp/2501111885)
 
