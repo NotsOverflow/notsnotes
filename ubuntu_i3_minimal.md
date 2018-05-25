@@ -152,13 +152,17 @@ client.urgent           #000000 #000000 #ffffff #000000
 bindsym XF86AudioRaiseVolume exec "amixer -q sset Master,0 1+ unmute"
 bindsym XF86AudioLowerVolume exec "amixer -q sset Master,0 1- unmute"
 bindsym XF86AudioMute exec "amixer -q sset Master,0 toggle"
+
 #set touch enable ( change according to your setup )
 exec xinput set-prop 13 282 1
+
 # numlock on boot
 exec_always --no-startup-id numlockx on
+
 #locking the screen ( should be the exact size of the screen )
 bindsym $mod+p exec i3lock -i "PATH_TO_IMAGE.png"
 exec xautolock -time 15 -locker i3lock -i "PATH_TO_IMAGE.png"
+
 #screenshot
 bindsym --release Print exec scrot -m "SOME_PATH/%s_%H%M_%d.%m.%Y_$wx$h.png"
 
