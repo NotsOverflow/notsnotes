@@ -126,6 +126,6 @@ Source:
 
 [L'intestin, notre deuxième cerveau: Pr Francisca Joly Gomez](https://www.amazon.fr/Lintestin-notre-deuxi%C3%A8me-cerveau-Comprendre/dp/2501111885)
 
-> [SciShow news](https://www.youtube.com/playlist?list=PLsNB4peY6C6JzXyhabO-6Knx7nu53fL2x)
+[SciShow news](https://www.youtube.com/user/scishow)
 
-> [Seekers](https://www.youtube.com/channel/UCzWQYUVCpZqtN93H8RR44Qw)
+[Seekers](https://www.youtube.com/channel/UCzWQYUVCpZqtN93H8RR44Qw)
