@@ -1,6 +1,6 @@
 ![notgnik](https://transfer.sh/z9ggJ/image.png)
 
-# Welcome to nots notes :D
+# Welcome to nots notes 
 
 - [Ubuntu i3 miniman < 256Mb of Ram ](https://github.com/richardjuan/notsnotes/blob/master/ubuntu_i3_minimal.md)
 
