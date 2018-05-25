@@ -112,16 +112,19 @@ Everything have been selected for a glycemic index inferior to 50 or less
 
 As you can see recipes are more guidelines than a specific procedure to follow, i hope you like it better this way :)
 
+
+
 Source: 
->[International table of glycemic index and glycemic load values ( Kaye Foster-Powell, Susanna HA Holt, and Janette C Brand-Miller )](http://care.diabetesjournals.org/content/suppl/2008/09/18/dc08-1239.DC1/TableA1_1.pdf)
 
->[David Perlmutter](https://www.amazon.fr/David-Perlmutter/e/B001JSAC00/ref=ntt_dp_epwbk_0)
+[International table of glycemic index and glycemic load values ( Kaye Foster-Powell, Susanna HA Holt, and Janette C Brand-Miller )](http://care.diabetesjournals.org/content/suppl/2008/09/18/dc08-1239.DC1/TableA1_1.pdf)
 
->[USDA](https://www.usda.gov/)
+[David Perlmutter](https://www.amazon.fr/David-Perlmutter/e/B001JSAC00/ref=ntt_dp_epwbk_0)
 
->[nutritiondata](nutritiondata.self.com)
+[USDA](https://www.usda.gov/)
 
-> [L'intestin, notre deuxième cerveau: Pr Francisca Joly Gomez](https://www.amazon.fr/Lintestin-notre-deuxi%C3%A8me-cerveau-Comprendre/dp/2501111885)
+[nutritiondata](nutritiondata.self.com)
+
+[L'intestin, notre deuxième cerveau: Pr Francisca Joly Gomez](https://www.amazon.fr/Lintestin-notre-deuxi%C3%A8me-cerveau-Comprendre/dp/2501111885)
 
 > [SciShow news](https://www.youtube.com/playlist?list=PLsNB4peY6C6JzXyhabO-6Knx7nu53fL2x)
 
