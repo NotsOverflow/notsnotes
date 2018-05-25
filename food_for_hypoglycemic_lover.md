@@ -100,12 +100,12 @@ Everything have been selected for a glycemic index inferior to 50 or less
 
 ### Daily Routine:
 - Eggs with the white cooked and the yellow liquid ( maximizing vitamin and protein intakes. 13g prot., vit: A,D,B )
-- Cooking with coconut oil ( brain health )
-- A vegetables mix like lettus and tommatoes ( fibers and vit: A,C,E,K )
-- Grean Thé or Coffe ( Help remove free radicals )
-- Turmeric or CBD ( removing inflammations )
-- Smelliest cheese you found ( guts maintenance )
-- Some broccoli soup ( fiber and toxin removal )
+- Cooking with coconut oil ( Brain health )
+- A vegetables mix like lettus and tommatoes ( Fibers and Vit: A,C,E,K )
+- Green Thé or Coffe ( Help remove free radicals )
+- Turmeric or CBD ( Removing inflammations )
+- Smelliest cheese you found ( Guts maintenance )
+- Some broccoli soup ( Fiber and Toxin removal )
 
 As you can see recipes are more guidelines than a specific procedure to follow, i hope you like it better this way :)
 
