@@ -122,7 +122,7 @@ Source:
 
 [USDA](https://www.usda.gov/)
 
-[nutritiondata](nutritiondata.self.com)
+[nutritiondata](http://nutritiondata.self.com/)
 
 [L'intestin, notre deuxième cerveau: Pr Francisca Joly Gomez](https://www.amazon.fr/Lintestin-notre-deuxi%C3%A8me-cerveau-Comprendre/dp/2501111885)
 
