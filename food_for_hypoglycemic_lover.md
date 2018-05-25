@@ -81,20 +81,39 @@ Everything have been selected for a glycemic load inferior to 15 or less
 |honey+fructose| 40|
 |Carrots, raw | 16 |
 |Yam|25-50|
+
 Everything have been selected for a glycemic index inferior to 50 or less
+
 ## Bonus recipes:
+
 ### Veggie'n'Cheese
 - Put a cheese of your taste in the oven to melt :)
  - Cut raw vegetables like sticks.
  - Prepare a "vinegrette" : vinegar, oil, herbs, salt and pepper.
  - Present as you like and enjoy ;)
+ 
 ### No-bread sandwich styles: 
 - Cubecombert : Cut in half a cubecombert and remove the seeds
 - Wrap : Use turkey meat or latus  as a wrap 
 - Asian : use rice, nori, cabbage ...
 - Fried : Fry vegetables of your choice with eggs and flour to get a veggie bred-like to sandwich with ( some talk about baking soda and citric acid to make it more bread-like but it's out of the scope )
 
+### Daily Routine:
+- Eggs with the white cooked and the yellow liquid ( maximizing vitamin and protein intakes. 13g prot., vit: A,D,B )
+- Cooking with coconut oil ( brain health )
+- A vegetables mix like lettus and tommatoes ( fibers and vit: A,C,E,K )
+- Grean Thé or Coffe ( Help remove free radicals )
+- Turmeric or CBD ( removing inflammations )
+- Smelliest cheese you found ( guts maintenance )
+- Some broccoli soup ( fiber and toxin removal )
+
 As you can see recipes are more guidelines than a specific procedure to follow, i hope you like it better this way :)
 
->Source: International table of glycemic index and glycemic load values
->Kaye Foster-Powell, Susanna HA Holt, and Janette C Brand-Miller
+>Source: 
+>International table of glycemic index and glycemic load values ( Kaye Foster-Powell, Susanna HA Holt, and Janette C Brand-Miller )
+
+>Grain Brain, Brain maker : David Perlmutter and Kristin Loberg
+
+>USDA
+
+>nutritiondata.self.com
