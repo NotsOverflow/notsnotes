@@ -9,3 +9,5 @@
 - [How to use Heroku server for go apps](https://github.com/richardjuan/notsnotes/blob/master/heroku_go.md)
 
 - [How To Build a deb and publish a PPA in Ubuntu ](https://github.com/richardjuan/notsnotes/blob/master/ppa_deb.md)
+
+- [Malware reverse tool setup](https://github.com/richardjuan/notsnotes/blob/master/libvm_setup.md)
