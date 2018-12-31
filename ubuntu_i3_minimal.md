@@ -2,7 +2,7 @@
 #### TL,DR
 > A fully fonctional and good-looking linux for less than 256mb of ram 
 
-![mod+return to open a terminal ;)](https://transfer.sh/iqdPs/sc.png)
+![mod+return to open a terminal ;)](https://cdn-images-1.medium.com/max/800/0*9ATjidVbLTZW8wW5.)
 
 ## Setting Up
 ####  Downloading and installing 
