@@ -1,4 +1,4 @@
-![notgnik](https://transfer.sh/z9ggJ/image.png)
+![notgnik](https://images.techhive.com/images/article/2014/07/notes-icon-100358271-large.jpg)
 
 # Welcome to nots notes 
 
