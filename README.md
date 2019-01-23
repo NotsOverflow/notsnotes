@@ -11,3 +11,6 @@
 - [How To Build a deb and publish a PPA in Ubuntu ](https://github.com/richardjuan/notsnotes/blob/master/ppa_deb.md)
 
 - [Malware reverse tool setup](https://github.com/richardjuan/notsnotes/blob/master/libvm_setup.md)
+
+- [Rails setup on Windows](https://github.com/richardjuan/notsnotes/blob/master/rails_windows.md)
+
