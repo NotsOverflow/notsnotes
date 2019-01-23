@@ -2,7 +2,7 @@
 ## Ruby on Rails:
 - go to [rubyinstaller.org](https://rubyinstaller.org/downloads/) and download the recomanded file.
 - install ruby and mysys64 to a nice place where you have user access ( eg: "D:\\" )
--  execute ( ❖ + r ) ```"C:\Windows\system32\rundll32.exe" sysdm.cpl,EditEnvironmentVariables"``` to add the binaries folder to your PATH environement variable
+-  execute ( ❖ + r ) ```"C:\Windows\system32\rundll32.exe" sysdm.cpl,EditEnvironmentVariables``` to add the binaries folder to your PATH environement variable
 - run an administrator powershell window and remove aslr to mysys64 executables
 ```powershell
 $files = (Get-ChildItem 'C:\msys64\usr\bin\*.exe').FullName
