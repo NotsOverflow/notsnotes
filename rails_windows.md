@@ -10,6 +10,7 @@ $files.ForEach({Set-ProcessMitigation $_ -Disable ForceRelocateImages})
 ```
 - start prompt with ruby
 ```powershell
+# Select option 3
 ridk install
 gem install bundler
 gem install rails
