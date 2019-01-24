@@ -1,15 +1,16 @@
 # Ruby on Rails on windows
 ## Ruby on Rails:
 - go to [rubyinstaller.org](https://rubyinstaller.org/downloads/) and download the recomanded file.
-- install ruby and mysys64 to a nice place where you have user access ( eg: "D:\\" )
--  execute ( ❖ + r ) ```"C:\Windows\system32\rundll32.exe" sysdm.cpl,EditEnvironmentVariables``` to add the binaries folder to your PATH environement variable
+- install ruby with toochain to a nice place where you have user access ( eg: "D:\\" ) and don't autorun ```ridk install``` yet
+-  execute ( ❖ + r ) ```"C:\Windows\system32\rundll32.exe" sysdm.cpl,EditEnvironmentVariables``` to add the binaries folder to your PATH environement variable if you need to
 - run an administrator powershell window and remove aslr to mysys64 executables
 ```powershell
-$files = (Get-ChildItem 'C:\msys64\usr\bin\*.exe').FullName
+$files = (Get-ChildItem 'D:\Ruby\msys64\usr\bin\*.exe').FullName
 $files.ForEach({Set-ProcessMitigation $_ -Disable ForceRelocateImages})
 ```
-- install bundler and rails
+- start prompt with ruby
 ```powershell
+ridk install
 gem install bundler
 gem install rails
 ```
