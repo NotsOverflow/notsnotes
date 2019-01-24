@@ -21,8 +21,8 @@ gem install rails
 ### Create your first app
 In a command prompt enter the following commands
 ```powershell
-#create an app
-rails new herokuapp --database=postgresql
+#create an app ( action table is skiped here cause of a bug )
+rails new herokuapp --database=postgresql  --skip-action-cable 
 cd herokuapp
 #create a hello world
 rails g controller home
