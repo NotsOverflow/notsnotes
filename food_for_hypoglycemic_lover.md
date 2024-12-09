@@ -1,7 +1,6 @@
 # Food for hypoglycemic lovers +plus tow bonus recipes.
 
 > Meant for those who want to loose the fat really quickly and be in a more paleolithic diet state :)
-
 > The low GL list is what impact less the blood sugar (usefull to avoid diabeties and loose weight )
 > The low GI list is what's impact less the sugar in the stomach ( usefull in case of bad bacteria activity )
 
