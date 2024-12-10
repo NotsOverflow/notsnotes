@@ -63,11 +63,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.71329397"
-     inkscape:cx="323.14868"
+     inkscape:cx="323.14867"
      inkscape:cy="440.21121"
      inkscape:window-width="1278"
      inkscape:window-height="1000"
-     inkscape:window-x="-7"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg19" />
@@ -87,14 +87,14 @@
      id="path241"
      sodipodi:nodetypes="cc" />
   <ellipse
-     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:12.6021;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:12.6021;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
      id="path242"
      cx="445.34683"
      cy="690.84863"
      rx="55.666958"
      ry="54.736301" />
   <ellipse
-     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:12.6021;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:12.6021;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
      id="path243"
      cx="660.06226"
      cy="694.06836"
@@ -165,7 +165,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect254);fill:#01f0ff;fill-opacity:1;fill-rule:nonzero;stroke:#01f0ff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"><tspan
        x="165.42969"
        y="241.12562"
-       id="tspan1">GO</tspan></text>
+       id="tspan2">GO</tspan></text>
   <path
      style="fill:#01f0ff;fill-opacity:1;fill-rule:nonzero;stroke:#01f0ff;stroke-width:23.6289;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      d="m 235.17566,183.19636 h 79.52423"
