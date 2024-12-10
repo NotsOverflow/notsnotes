@@ -1,3 +1,5 @@
+![](images/diverse/health.svg)
+
 # Food for hypoglycemic lovers +plus tow bonus recipes.
 
 > Meant for those who want to loose the fat really quickly and be in a more paleolithic diet state :)
