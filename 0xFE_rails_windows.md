@@ -3,8 +3,7 @@
 # Windows RoR
 
 > A basic setup of ruby on rails on windows.
-> You will be up and runny for coding your rails app.
-> Be carefull as some library use a different line return char and my break
+> You will be up and runny for coding your rails app. Be carefull as some library use a different line return char and my break
 
 ## Ruby on Rails:
 
