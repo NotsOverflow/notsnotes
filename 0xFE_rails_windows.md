@@ -2,7 +2,7 @@
 
 # Windows RoR
 
-> A basic setup of ruby on rails on windows (witch i don't recomend).
+> A basic setup of ruby on rails on windows (not recomended).
 > You will be up and runny for coding your rails app
 
 ## Ruby on Rails:
