@@ -1,8 +1,9 @@
 ![](images/diverse/linux256.svg)
 
-# Minimal i3 Ubuntu 18.04
+# Minimal Linux
 
-> A fully fonctional and good-looking linux for less than 256mb of ram
+> Make a fully fonctional and good-looking linux using less than 256mb of ram.
+> With the help of the minimal Ubuntu 18.04 image that you customize yourself
 
 ![mod+return to open a terminal ;)](https://cdn-images-1.medium.com/max/800/0*9ATjidVbLTZW8wW5.)
 

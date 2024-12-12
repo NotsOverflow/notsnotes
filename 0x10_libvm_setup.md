@@ -1,6 +1,6 @@
 ![](images/diverse/malware.svg)
 
-# Lets reverse malwares!
+# Reverse malwares!
 
 > Useing Xen, LibVMI and Drakvuf to carefully trace the execution of Windows and Linux guests without impacting them
 

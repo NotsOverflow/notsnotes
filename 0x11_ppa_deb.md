@@ -1,6 +1,6 @@
 ![](images/diverse/package.svg)
 
-# How to create a ppa and manage it like a 8055!
+# PPA like a 8055!
 
 > Simple tutorial on how to create your own package repository for ubuntu
 > allowing you to share package with the world and your computer fleet

@@ -2,7 +2,8 @@
 
 # Heroku Go
 
-> basic setup of a go server using heroku hosting baked by amazon aws
+> Basic setup of a go server using heroku hosting baked by amazon aws.
+> You will be up and running to develope and deploy a GoLang website
 
 ### The setup
 
