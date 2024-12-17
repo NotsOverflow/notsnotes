@@ -5,7 +5,7 @@
 > Make a fully fonctional and good-looking linux using less than 256mb of ram.
 > With the help of the minimal Ubuntu 18.04 image that you customize yourself
 
-![mod+return to open a terminal ;)](https://cdn-images-1.medium.com/max/800/0*9ATjidVbLTZW8wW5.)
+![mod+return to open a terminal ;)](images/ubuntu_i3_minimal/min_ubuntu.png)
 
 ## Setting Up
 
