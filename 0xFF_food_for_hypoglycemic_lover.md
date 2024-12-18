@@ -121,7 +121,7 @@ Everything have been selected for a glycemic index inferior to 50 or less
 
 As you can see recipes are more guidelines than a specific procedure to follow, i hope you like it better this way :)
 
-Source:
+Sources:
 
 [International table of glycemic index and glycemic load values paper by Kaye Foster-Powell, Susanna HA Holt, and Janette C Brand-Miller ](http://care.diabetesjournals.org/content/suppl/2008/09/18/dc08-1239.DC1/TableA1_1.pdf)
 
