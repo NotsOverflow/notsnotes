@@ -56,8 +56,6 @@ The ones that contain less than 15g of Carbohydrate should be well suited for th
 | M & M's®, peanut                               | 6     |
 
 Everything have been selected for a glycemic load inferior to 15 or less
-This is **bold**, _italic_, and a [link](https://example.com).
-Everything have been selected for a glycemic load inferior to 15 or less
 
 ## The Low Glycemic index list :
 
