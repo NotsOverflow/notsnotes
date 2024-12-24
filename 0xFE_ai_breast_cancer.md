@@ -86,10 +86,12 @@ for img in dataset[:3]:
 print(len(dataset))
 ```
 
+```bash
 breast-histopathology-images/IDC_regular_ps50_idx5/9322/0/9322_idx5_x301_y1101_class0.png
 breast-histopathology-images/IDC_regular_ps50_idx5/9322/0/9322_idx5_x1851_y1501_class0.png
 breast-histopathology-images/IDC_regular_ps50_idx5/9322/0/9322_idx5_x1401_y301_class0.png
 277524
+```
 
 we do one more check to see if everithing is right
 
@@ -194,7 +196,9 @@ X = np.concatenate((non_img_arr, can_img_arr))
 y = np.concatenate([non_y,can_y])
 ```
 
+```bash
 277524 0.28388896095472826 40000 0.14413167870166183
+```
 
 we also check that the data is shaped proprely before feeding it to the convolutional network, it need the images to be a matrix array of constant size since convolutional models are not addaptative conserning there input data.
 
@@ -218,6 +222,7 @@ print("Training Data Shape:", X_train.shape)
 print("Testing Data Shape:", X_test.shape)
 ```
 
+```bash
 Total number of images: 39756
 Number of IDC(-) Images: 28394
 Number of IDC(+) Images: 11362
@@ -225,6 +230,7 @@ Image shape (Width, Height, Channels): (50, 50, 3)
 
 Training Data Shape: (27829, 50, 50, 3)
 Testing Data Shape: (11927, 50, 50, 3)
+```
 
 everything looks good, let's describe our model to the library
 
