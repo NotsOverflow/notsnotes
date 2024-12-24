@@ -1,6 +1,6 @@
 ![](images/diverse/science.svg)
 
-# 98% accuracy
+# Google codelab
 
 > Using AI to detect breast cancer from petscans
 > and beeing able to detect cancer cells with a 98% accuracy.
