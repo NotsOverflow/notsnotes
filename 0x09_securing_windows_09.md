@@ -62,8 +62,6 @@ If you can disable your wifi and bluetooth adapter
 go to contol panel > network and internet > network and sharing center > Change adapter settings
 then right click on them and click "Disable"
 
-![](images/windows_sec/network.png)
-
 then on the adapter you are using, right click and click on "Properties"
 then uncheck all items but "Qos Packet Scheduler" and "Internet Protocol Version 4 (TCP/IPv4)"
 
