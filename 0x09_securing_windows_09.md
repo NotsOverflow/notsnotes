@@ -1,6 +1,6 @@
 ![](images/diverse/windows.svg)
 
-# Secure Windows #1
+# Securing Windows
 
 > Guide to harden windows client security by udelising tools and configuration
 > making life harder for malware and hacker to exploit your home computer
