@@ -287,6 +287,8 @@ with the following results
 ![](images/ai_cnn_breast/result1.png)
 ![](images/ai_cnn_breast/result2.png)
 
-as you can see, with 20 batchs runned i was able to obtain already 92% accuracy with only a few false positive, but resampling the data and continuing training the model i manage 98% accuracy, unfortunetly i ran out of ressources at the 37 batch and wasn't able to complete the last 3 batches.
+as you can see, with 20 batchs runned i was able to obtain already 92% accuracy with only a few false positive, but resampling the data and continuing training the model i manage 98% accuracy, unfortunetly i ran out of ressources at the 38 batch and wasn't able to complete the last batches.
+
+![](images/ai_cnn_breast/output_2.png)
 
 none the less , i was sitified since it's been overdone with this dataset and it was more a way for me to try and see the capability of google codelab witch allowe you to use a really powerfull computer for any python related task for free :)
