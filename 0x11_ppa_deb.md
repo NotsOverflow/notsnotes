@@ -13,7 +13,7 @@ You can fork or edit a program, send his sources to launchpad, have it turn into
 #### Let's start!
 
 first you need to connect to [launchpad.net](http://launchpad.net), using your Ubuntu one account.
-click on `create a new ppa` , fillup the form and you're done :D
+click on `create a new ppa` , fill up the form and you're done :D
 
 #### Whait a minute...
 
